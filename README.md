@@ -1,20 +1,32 @@
 <!-- [![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/) If you want the template for my gif, email me! -->
 
-### Languages
+### Technologies
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![Haskell](https://img.shields.io/badge/-Haskell-000?&logo=Haskell)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
+![HTML](https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6)
 
+![]
+### Currently Improving
 
-### Technologies
 ![KaliLinux](https://img.shields.io/badge/-KaliLinux-000?&logo=KaliLinux)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-<!--
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
+![]
+
+### Interested to Learn
+![Javascript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=Bash)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+
+
+<!--
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
