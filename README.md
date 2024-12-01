@@ -9,20 +9,19 @@
 ![HTML](https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6)
 
-![]
+
 ### Currently Improving
 
 ![KaliLinux](https://img.shields.io/badge/-KaliLinux-000?&logo=KaliLinux)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
-![]
+
 
 ### Interested to Learn
 ![Javascript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=Bash)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 
 
