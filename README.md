@@ -1,4 +1,9 @@
 <!-- [![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/) If you want the template for my gif, email me! -->
+### Hey!
+I'm youna and I'm a student from Berlin.
+Whilst you can commonly find me stressing over school work or playing my guitar, I can often be found coding or working on competitions. 
+I'm a keen learner and a programmer by heart; and one step at a time, I sharpen my skills and gain more knowledge.
+Welcome to my journey!
 
 ### Technologies
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
