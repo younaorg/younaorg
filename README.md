@@ -5,6 +5,7 @@ Whilst you can commonly find me stressing over school work or playing my guitar,
 I'm a keen learner and a programmer by heart; and one step at a time, I sharpen my skills and gain more knowledge.
 Welcome to my journey!
 
+
 ### Technologies
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
