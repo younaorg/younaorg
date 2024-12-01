@@ -6,8 +6,8 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![Haskell](https://img.shields.io/badge/-Haskell-000?&logo=Haskell)
-![HTML](https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6)
+![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
 
 
 ### Currently Improving
