@@ -3,6 +3,7 @@
 I'm youna and I'm a student from Berlin.
 Whilst you can commonly find me stressing over school work or playing my guitar, I can often be found coding or working on competitions. 
 I'm a keen learner and a programmer by heart; and one step at a time, I sharpen my skills and gain more knowledge.
+
 Welcome to my journey!
 
 
