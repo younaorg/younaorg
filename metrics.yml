@@ -55,5 +55,5 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           plugin_repositories: no
-          plugin_repositories_featured: aoc-py, aoc-java
+          plugin_repositories_featured: SQL-Coach, AdventOfCOde2024, youna.org, Codeforces, CSES, Solutions-SQL-Coach, TryHackMe-auf-Crack
           plugin_repositories_order: featured, pinned, starred, random
