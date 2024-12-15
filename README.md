@@ -27,6 +27,7 @@ Welcome to my journey!
 
 ### Interested to Learn
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
+!OCaml](https://img.shields.io/badge/-OCaml-000?&logo=OCaml)
 ![Javascript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
