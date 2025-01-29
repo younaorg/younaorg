@@ -5,11 +5,6 @@ Whilst you can commonly find me stressing over school work or playing my guitar,
 I'm a keen learner and a programmer by heart; and one step at a time, I sharpen my skills and gain more knowledge.
 
 Welcome to my journey!
-[![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/adamalston/Network-Tools)
-<a href="https://github.com/younaorg">
-
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=younaorg&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --> 
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=younaorg&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=TryHackMe-auf-Crack&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </a>
 
 ### Technologies
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
@@ -68,9 +63,7 @@ Welcome to my journey!
 <a href="https://github.com/younaorg">
 <!--
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=younaorg&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --> 
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=younaorg&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --> 
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=younaorg&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=TryHackMe-auf-Crack&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </a>
 
-<!-- ![Metrics](/github-metrics.svg) -->
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 
