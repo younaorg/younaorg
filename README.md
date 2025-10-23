@@ -5,17 +5,17 @@ I'm a keen learner and a programmer by heart; and one step at a time, I sharpen 
 
 Welcome to my journey!
 
-### Technologies
+### Programming Languages
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![Haskell](https://img.shields.io/badge/-Haskell-000?&logo=Haskell)
 ![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+<!--![CSS](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)-->
 
 
-### Currently Improving
+### Technologies (Currently Improving)
 
 ![KaliLinux](https://img.shields.io/badge/-KaliLinux-000?&logo=KaliLinux)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
